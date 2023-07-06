@@ -1,0 +1,58 @@
+/*Nav bar*/
+.navbar{
+    background-color: #412156;
+    font-size: 150%;
+}
+
+/*For All Page*/
+main{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+/*Home Page*/
+.me
+{
+    margin-top: 10%;
+    width: 30%;
+    height: 30%;
+}
+.aboutMe
+{
+    margin-top: 1%;
+    margin-left: 2%;
+}
+.marg
+{
+    margin-left: 2%;
+}
+
+.icon
+{
+    font-size: 190%;
+}
+
+
+/*About Page*/
+.images
+{
+    width: 100%;
+    height: auto;
+}
+
+.card1
+{
+ width: 80%;
+ margin-left: 10%;
+}
+
+.card2
+{
+    width: 100%;
+    margin-left: 50%;
+}
+
+.title
+{
+    margin-top: 1%;
+}
+
+/*colors*/
