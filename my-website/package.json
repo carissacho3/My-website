@@ -18,5 +18,13 @@
     "http": "^0.0.1-security",
     "nodemailer": "^6.9.3",
     "nodemon": "^2.0.22"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carissacho3/My-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/carissacho3/My-website/issues"
+  },
+  "homepage": "https://github.com/carissacho3/My-website#readme"
 }
